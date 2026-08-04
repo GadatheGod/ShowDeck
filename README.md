@@ -27,6 +27,7 @@ Everything is stored in `localStorage` inside your browser — no database, no b
 
 That's it. That's all.
 
+JUST DOWNLOAD FROM GITHUB -> LOOK FOR "CODE" GREEN ICON ->DOWNLOAD AS ZIP THE REPOSITORY->EXTRACT IN YOUR LOCAL SYSTEM-> START RUNNING INDEX.HTML AND VOILA !.
 ---
 
 ## Screenshots
