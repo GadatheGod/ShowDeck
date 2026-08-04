@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2e1e1e"/><stop offset="100%" stop-color="#ea738a08"/></linearGradient></defs>
+    <rect width="400" height="300" fill="url(#bg)"/>
+    <rect x="60" y="60" width="10" height="200" rx="2" fill="#f38ba2" opacity="0.5"/>
+    <rect x="330" y="60" width="10" height="200" rx="2" fill="#f38ba2" opacity="0.5"/>
+    <rect x="60" y="60" width="280" height="8" rx="2" fill="#f38ba2" opacity="0.4"/>
+    <line x1="100" y1="68" x2="100" y2="150" stroke="#f38ba2" stroke-width="3" opacity="0.3"/>
+    <line x1="300" y1="68" x2="300" y2="150" stroke="#f38ba2" stroke-width="3" opacity="0.3"/>
+    <rect x="90" y="145" width="220" height="6" rx="3" fill="#f38ba2" opacity="0.25"/>
+    <circle cx="100" cy="100" r="6" fill="#f38ba2" opacity="0.6"/>
+    <circle cx="300" cy="100" r="6" fill="#f38ba2" opacity="0.6"/>
+    <rect x="180" y="155" width="40" height="30" rx="4" fill="#f38ba2" opacity="0.3"/>
+    <text x="200" y="280" text-anchor="middle" fill="#ffe8ee" font-family="system-ui,sans-serif" font-size="13" font-weight="600" letter-spacing="1">Electric Chain Hoist Mount</text>
+  </svg>

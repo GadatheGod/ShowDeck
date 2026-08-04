@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4a9eff"/>
+      <stop offset="100%" stop-color="#2d6da8"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="80" fill="transparent"/>
+  <rect x="10" y="15" width="50" height="50" rx="10" fill="url(#logoGrad)" opacity="0.9"/>
+  <text x="35" y="48" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="28" font-weight="800">S</text>
+  <text x="75" y="52" text-anchor="start" fill="#2c3e50" font-family="system-ui,sans-serif" font-size="32" font-weight="700" letter-spacing="3">SHOWDECK</text>
+  <text x="75" y="68" text-anchor="start" fill="#7f8c8d" font-family="system-ui,sans-serif" font-size="10" font-weight="400" letter-spacing="4">PROJECT PRESENTER</text>
+</svg>

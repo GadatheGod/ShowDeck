@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a2332"/><stop offset="100%" stop-color="#2d6da810"/></linearGradient></defs>
+    <rect width="400" height="300" fill="url(#bg)"/>
+    <line x1="60" y1="80" x2="340" y2="80" stroke="#4a9eff" stroke-width="6" stroke-linecap="round" opacity="0.5"/><line x1="60" y1="80" x2="340" y2="80" stroke="#4a9eff" stroke-width="2" stroke-linecap="round" opacity="0.2"/><line x1="60" y1="115" x2="340" y2="115" stroke="#4a9eff" stroke-width="6" stroke-linecap="round" opacity="0.44"/><line x1="60" y1="115" x2="340" y2="115" stroke="#4a9eff" stroke-width="2" stroke-linecap="round" opacity="0.18000000000000002"/><line x1="60" y1="150" x2="340" y2="150" stroke="#4a9eff" stroke-width="6" stroke-linecap="round" opacity="0.38"/><line x1="60" y1="150" x2="340" y2="150" stroke="#4a9eff" stroke-width="2" stroke-linecap="round" opacity="0.16"/><line x1="60" y1="185" x2="340" y2="185" stroke="#4a9eff" stroke-width="6" stroke-linecap="round" opacity="0.32"/><line x1="60" y1="185" x2="340" y2="185" stroke="#4a9eff" stroke-width="2" stroke-linecap="round" opacity="0.14"/><line x1="60" y1="220" x2="340" y2="220" stroke="#4a9eff" stroke-width="6" stroke-linecap="round" opacity="0.26"/><line x1="60" y1="220" x2="340" y2="220" stroke="#4a9eff" stroke-width="2" stroke-linecap="round" opacity="0.12000000000000001"/>
+    <circle cx="60" cy="80" r="5" fill="#4a9eff" opacity="0.4"/>
+    <circle cx="340" cy="80" r="5" fill="#4a9eff" opacity="0.4"/>
+    <circle cx="60" cy="245" r="5" fill="#4a9eff" opacity="0.4"/>
+    <circle cx="340" cy="245" r="5" fill="#4a9eff" opacity="0.4"/>
+    <text x="200" y="280" text-anchor="middle" fill="#e8f0ff" font-family="system-ui,sans-serif" font-size="13" font-weight="600" letter-spacing="1">Oil Filtration Unit Frame</text>
+  </svg>

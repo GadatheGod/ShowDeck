@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a2332"/><stop offset="100%" stop-color="#2d6da810"/></linearGradient></defs>
+    <rect width="400" height="300" fill="url(#bg)"/>
+    <rect x="40" y="190" width="320" height="4" rx="2" fill="#4a9eff" opacity="0.2"/>
+    <rect x="80" y="130" width="50" height="40" rx="6" fill="#4a9eff" opacity="0.5" stroke="#4a9eff" stroke-width="1" stroke-opacity="0.3"/><rect x="150" y="120" width="45" height="50" rx="6" fill="#4a9eff" opacity="0.42" stroke="#4a9eff" stroke-width="1" stroke-opacity="0.3"/><rect x="215" y="135" width="55" height="35" rx="6" fill="#4a9eff" opacity="0.33999999999999997" stroke="#4a9eff" stroke-width="1" stroke-opacity="0.3"/><rect x="290" y="125" width="40" height="45" rx="6" fill="#4a9eff" opacity="0.26" stroke="#4a9eff" stroke-width="1" stroke-opacity="0.3"/>
+    <line x1="105" y1="175" x2="150" y2="175" stroke="#4a9eff" stroke-width="1.5" opacity="0.3" stroke-dasharray="4 3"/>
+    <line x1="172" y1="175" x2="215" y2="175" stroke="#4a9eff" stroke-width="1.5" opacity="0.3" stroke-dasharray="4 3"/>
+    <line x1="242" y1="175" x2="290" y2="175" stroke="#4a9eff" stroke-width="1.5" opacity="0.3" stroke-dasharray="4 3"/>
+    <circle cx="105" cy="175" r="3" fill="#4a9eff" opacity="0.4"/>
+    <circle cx="172" cy="175" r="3" fill="#4a9eff" opacity="0.4"/>
+    <circle cx="242" cy="175" r="3" fill="#4a9eff" opacity="0.4"/>
+    <text x="200" y="250" text-anchor="middle" fill="#e8f0ff" font-family="system-ui,sans-serif" font-size="13" font-weight="600" letter-spacing="1">Ergonomic Mobile Workstation</text>
+  </svg>
